@@ -60,23 +60,6 @@ The application is designed to provide fast and relevant responses for document-
 
 ---
 
-## Folder Structure
-
-```bash
-RAG-Project/
-│
-├── app/
-├── data/
-├── models/
-├── static/
-├── templates/
-├── requirements.txt
-├── README.md
-└── main.py
-```
-
----
-
 ## Installation
 
 ### Clone the Repository
